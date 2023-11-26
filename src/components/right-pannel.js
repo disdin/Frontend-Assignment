@@ -170,7 +170,7 @@ const RightPannel = ({ uiJson }) => {
                                         </RadioGroup>
                                     </Stack>
                                 </Stack>
-                            );
+                            );  
                         case 'Switch':
                             return (
                                 <Stack key={param.jsonKey}>
