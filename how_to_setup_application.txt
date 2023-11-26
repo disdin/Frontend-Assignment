@@ -1,0 +1,4 @@
+Clone the application from github.
+Open terminal in main directory "jsontoform".
+Run "npm install".
+Run "npm start" to view application in local machine.
